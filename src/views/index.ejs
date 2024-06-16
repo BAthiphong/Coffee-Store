@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/index.css">
+  <link rel="stylesheet" href="assets/css/nav_bar.css">
+  <link rel="stylesheet" href="assets/css/products.css">
+  <link rel="stylesheet" href="assets/css/footer.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <title>Coffee Store</title>
+</head>
+
+<body>
+  <!-- HEADER NAVBAR START -->
+  <nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+    </label>
+    <label class="logo"> <a href="/">Coffee store</a> </label>
+    <ul>
+      <li> <a href="/darkroasts"> <i>Dark Roasts</i>  </a> </li>  
+      <li> <a href="/decaffeinateds"> <i> Decaffeinated </i> </a> </li>  
+      <li> <a href="/espresso"> <i>Espresso </i> </a> </li>  
+      <li> <a href="/icecoffees"> <i> Iced Coffees </i> </a> </li>  
+      <li> <a href="/reservedcoffees"> <i> Reserved Coffees </i> </a> </li>  
+      <li> <a href="/signature"> <i> Signature </i> </a> </li>  
+    </ul>
+  </nav>
+  <!-- HEADER NAVBAR END -->
+
+  <!-- Slide Banner Start -->
+  <section class="content-banner">
+    <div class="slider-wrapper">
+      <div class="slider">
+        <img id="slide-1" class="img-banner" src="assets/images/top-banner-001.jpg" alt="top banner 001">
+        <img id="slide-2" class="img-banner" src="assets/images/top-banner-002.jpg" alt="top banner 002">
+        <img id="slide-3" class="img-banner" src="assets/images/top-banner-003.jpg" alt="top banner 003">
+      </div>
+      <div class="slider-nav">
+        <a href="#slide-1"></a>
+        <a href="#slide-2"></a>
+        <a href="#slide-3"></a>
+      </div>
+    </div>
+  </section>
+  <!-- Slide Banner END -->
+
+  <!-- Show Products START -->
+  <div class="products-container">
+    <div class="new-product-header">
+      <p>NEW PRODUCTS</p>
+      <p>View All</p>
+    </div>
+    <div class="item-flexbox">
+      <% newProducts.forEach(product=> {%>
+        <div class="item">
+          <div class="item-pic">
+            <img src="<%=product.image %>" alt="">
+          </div>
+          <div class="item-name">
+            <p>
+              <%=product.name%>
+            </p>
+          </div>
+          <div class="item-price">
+            <p>
+              <%=product.price%> THB
+            </p>
+          </div>
+          <div class="item-add-cart">
+            <p> ADD TO CART </p>
+          </div>
+        </div>
+        <%});%>
+    </div>
+  </div>
+  <!-- Show Products END -->
+
+  <!-- Footer START -->
+  <section class="footer-content">
+    <div class="footer-box">
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> INFORMATION </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> About Us </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Customer Service </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Contact Us </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> WHY BUY FROM US </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Shipping & Returns </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Secure Shopping </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> International Shipping </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Affiliates </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> MY ACCOUNT </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Log In </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> View Cart </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> My Wishlist </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Track My Order </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Help </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> FOLLOW US </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Facebook </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Twitter </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> RSS </p>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- Footer END -->
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "newProduct01",
+    "name": "SENSEO VIENNA HAZELNUT WALTZ COFFEE",
+    "image":"assets/images/new products/SENSEO_VIENNA_HAZELNUT_WALTZ_COFFEE.png",
+    "price": 1325
+  },
+  {
+    "id": "newProduct02",
+    "name": "STARBUCKS CAFFE VERONA COFFEE",
+    "image":"assets/images/new products/STARBUCKS_CAFFE_VERONA_COFFEE.png",
+    "price": 2479
+  },
+  {
+    "id": "newProduct03",
+    "name": "YUBAN DARK ROAST GROUND COFFEE",
+    "image":"assets/images/new products/YUBAN_DARK_ROAST_GROUND_COFFEE.png",
+    "price": 1067
+  },
+  {
+    "id": "newProduct04",
+    "name": "MAXWELL HOUSE FRENCH ROAST GROUND COFFEE",
+    "image":"assets/images/new products/MAXWELL_HOUSE_FRENCH_ROAST_GROUND_COFFEE.png",
+    "price": 1359
+  },
+  {
+    "id": "newProduct05",
+    "name": "STARBUCKS ESPRESSO PODS",
+    "image":"assets/images/new products/STARBUCKS_ESPRESSO_PODS.png",
+    "price": 950
+  },
+  {
+    "id": "newProduct06",
+    "name": "SENSEO SUMATRA BLEND COFFEE",
+    "image":"assets/images/new products/SENSEO_SUMATRA_BLEND_COFFEE.png",
+    "price": 1699
+  },
+  {
+    "id": "newProduct07",
+    "name": "GEVALIA DARK ITALIAN ROAST, 12-COUNT T-DISCS",
+    "image":"assets/images/new products/GEVALIA_DARK_ITALIAN_ROAST.png",
+    "price": 1875
+  },
+  {
+    "id": "newProduct08",
+    "name": "STARBUCKS SUMATRA COFFEE",
+    "image":"assets/images/new products/STARBUCKS_SUMATRA_COFFEE.png",
+    "price": 1359
+  }
+]

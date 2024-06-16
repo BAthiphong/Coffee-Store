@@ -1,0 +1,23 @@
+[
+  {
+    "id": "signature01",
+    "name": "DOI CHAANG WILD CIVET COFFEE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+    "image":"assets/images/signature/DOI_CHAANG_WILD_CIVET_COFFEE.png",
+    "price": 2242
+  },
+  {
+    "id": "signature02",
+    "name": "GEVALIA DARK HOUSE BLEND",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+    "image":"assets/images/signature/GEVALIA_DARK_HOUSE_BLEND.png",
+    "price": 1119
+  },
+  {
+    "id": "signature03",
+    "name": "EIGHT O'CLOCK COFFEE, 100% COLOMBIAN GROUND",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+    "image":"assets/images/signature/EIGHT_OCLOCK COFFEE_100_COLOMBIAN_GROUND.png",
+    "price": 1198
+  }
+]

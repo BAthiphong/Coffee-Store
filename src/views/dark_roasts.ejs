@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/index.css">
+  <link rel="stylesheet" href="assets/css/nav_bar.css">
+  <link rel="stylesheet" href="assets/css/dark_roasts.css">
+  <link rel="stylesheet" href="assets/css/footer.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <title>DARK ROASTS</title>
+</head>
+<body>
+  <!-- HEADER NAVBAR START -->
+  <nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+    </label>
+    <label class="logo"> <a href="/">Coffee store</a> </label>
+    <ul>
+      <li> <a href="/darkroasts"> <i>Dark Roasts</i>  </a> </li>  
+      <li> <a href="/decaffeinateds"> <i> Decaffeinated </i> </a> </li>  
+      <li> <a href="/espresso"> <i>Espresso </i> </a> </li>  
+      <li> <a href="/icecoffees"> <i> Iced Coffees </i> </a> </li>  
+      <li> <a href="/reservedcoffees"> <i> Reserved Coffees </i> </a> </li>  
+      <li> <a href="/signature"> <i> Signature </i> </a> </li>  
+    </ul>
+  </nav>
+  <!-- HEADER NAVBAR END -->
+
+  <!-- PRODUCTS START -->
+  <div class="products-container">
+    <!-- PRODUCTS MENU -->
+     <div class="products-menu">
+      <a href="/"> <i> HOME </i> </a> 
+      <i style="margin-left: 8px; color: white;"> > </i>
+      <i style="margin-left: 8px; color: white;"> DARK ROASTS </i>
+     </div>
+    <!-- PRODUCTS HEADER -->
+    <div class="dark-roasts-products-header">
+      <p>DARK ROASTS</p>
+    </div>
+    <!-- PRODUCTS FLEX BOX -->
+     <div class="products-flexbox">
+      <% darkRoasts.forEach(roasts => { %>
+        <div class="products-item">
+          <div class="products-pic">
+            <img src="<%=roasts.image %>" alt="">
+          </div>
+          <div class="products-name">
+            <p> <%=roasts.name%> </p>
+          </div>
+          <div class="products-description">
+            <p> <%=roasts.description%> </p>
+          </div>
+          <div class="products-price">
+            <p> <%=roasts.price%> THB </p>
+          </div>
+          <div class="products-add-cart">
+            <p> ADD TO CART </p>
+          </div>
+        </div>
+      
+      <% }); %>
+     </div>
+  </div>
+  <!-- PRODUCTS END -->
+
+  <!-- Footer START -->
+  <section class="footer-content">
+    <div class="footer-box">
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> INFORMATION </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> About Us </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Customer Service </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Contact Us </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> WHY BUY FROM US </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Shipping & Returns </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Secure Shopping </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> International Shipping </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Affiliates </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> MY ACCOUNT </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Log In </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> View Cart </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> My Wishlist </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Track My Order </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Help </p>
+        </a>
+      </div>
+      <div class="footer-detail">
+        <i class="footer-detail-topic"> FOLLOW US </i>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Facebook </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> Twitter </p>
+        </a>
+        <a href="/" class="footer-btn">
+          <p class="footer-detail-suptopic"> RSS </p>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- Footer END -->
+</body>
+</html>

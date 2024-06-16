@@ -1,0 +1,44 @@
+[
+  {
+    "id": "espresso01",
+    "name": "FOLGERS BLACK SILK GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/FOLGERS_BLACK_SILK_GROUND_COFFEE.png",
+    "price": 1902
+  },
+  {
+    "id": "espresso02",
+    "name": "FOLGERS CLASSIC ROAST GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/FOLGERS_CLASSIC_ROAST_GROUND_COFFEE.png",
+    "price": 1506
+  },
+  {
+    "id": "espresso03",
+    "name": "GEVALIA DARK ITALIAN ROAST, 12-COUNT T-DISCS",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/GEVALIA_DARK_ITALIAN_ROAST.png",
+    "price": 1878
+  },
+  {
+    "id": "espresso04",
+    "name": "STARBUCKS CAFFE VERONA COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/STARBUCKS_CAFFE_VERONA_COFFEE.png",
+    "price": 2479
+  },
+  {
+    "id": "espresso05",
+    "name": "STARBUCKS ESPRESSO PODS",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/STARBUCKS_ESPRESSO_PODS.png",
+    "price": 950
+  },
+  {
+    "id": "espresso06",
+    "name": "STARBUCKS SUMATRA COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/espresso/STARBUCKS_SUMATRA_COFFEE.png",
+    "price": 1359
+  }
+]

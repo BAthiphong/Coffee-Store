@@ -1,0 +1,44 @@
+[
+  {
+    "id": "reservedCoffees01",
+    "name": "FOLGERS HOME CAFE CLASSIC ROAST COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/FOLGERS_HOME_CAFE_CLASSIC_ROAST_COFFEE.png",
+    "price": 2017
+  },
+  {
+    "id": "reservedCoffees02",
+    "name": "NESCAFE CLASICO INSTANT COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/NESCAFE_CLASICO_INSTANT_COFFEE.png",
+    "price": 822
+  },
+  {
+    "id": "reservedCoffees03",
+    "name": "SELAMLIQUES TURKISH COFFEE (24 SINGLE SERVING SACHETS)",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/SELAMLIQUES_TURKISH_COFFEE.png",
+    "price": 813
+  },
+  {
+    "id": "reservedCoffees04",
+    "name": "STARBUCKS ESPRESSO PODS",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/STARBUCKS_ESPRESSO_PODS.png",
+    "price": 1562
+  },
+  {
+    "id": "reservedCoffees05",
+    "name": "TASTERS CHOICE HAZELNUT INSTANT COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/TASTERS_CHOICE_HAZELNUT_INSTANT_COFFEE.png",
+    "price": 1222
+  },
+  {
+    "id": "reservedCoffees06",
+    "name": "TIMOTHY'S WORLD COFFEE, KAHLUA ORIGINAL",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/reserved coffees/TIMOTHYS_WORLD_COFFEE_KAHLUA_ORIGINAL.png",
+    "price": 1588
+  }
+]

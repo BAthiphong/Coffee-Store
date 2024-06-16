@@ -1,0 +1,131 @@
+.footer-content {
+  margin: 16px auto;
+  width: 60%;
+  height: 60%;
+  padding: 0px 15px;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px dashed #ffffff;
+}
+
+.footer-box {
+  display: flex;
+  flex-direction: row;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.footer-detail {
+  width: 25%;
+  padding: 0 15px;
+
+  display: flex;
+  flex-direction: column;
+
+  .footer-detail-topic {
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .footer-detail-suptopic {
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #ED8D26;
+  }
+}
+
+.footer-btn {
+  text-decoration: none;
+}
+
+.footer-detail a:hover {
+  color: white;
+}
+
+.footer-detail p:hover {
+  color: white;
+}
+
+@media only screen and (max-width: 1439px) {
+  .footer-content {
+    margin: 16px auto;
+    width: 96%;
+    height: 60%;
+    padding: 0px 15px;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px dashed #ffffff;
+  }
+
+  .footer-box {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  .footer-detail {
+    width: 50%;
+    padding: 0 15px;
+    margin-bottom: 16px;
+
+    display: flex;
+    flex-direction: column;
+
+    .footer-detail-topic {
+      font-size: 18px;
+      margin-bottom: 15px;
+      font-weight: bold;
+      color: white;
+    }
+
+    .footer-detail-suptopic {
+      font-size: 13px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: #ED8D26;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .footer-content {
+    margin: 16px auto;
+    width: 93%;
+    height: 60%;
+    padding: 0px 15px;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px dashed #ffffff;
+  }
+
+  .footer-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  .footer-detail {
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 16px;
+
+    display: flex;
+    flex-direction: column;
+
+    .footer-detail-topic {
+      font-size: 18px;
+      margin-bottom: 15px;
+      font-weight: bold;
+      color: white;
+    }
+
+    .footer-detail-suptopic {
+      font-size: 13px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: #ED8D26;
+    }
+  }
+}

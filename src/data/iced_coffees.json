@@ -1,0 +1,44 @@
+[
+  {
+    "id": "icedCoffees01",
+    "name": "STARBUCKS COFFEE FRAPPUCCINO COFFEE DRINK MOCHA",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_COFFEE_FRAPPUCCINO_COFFEE_DRINK_MOCHA.png",
+    "price": 1325
+  },
+  {
+    "id": "icedCoffees02",
+    "name": "STARBUCKS COFFEE FRAPPUCCINO COFFEE DRINK, COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_COFFEE_FRAPPUCCINO_COFFEE_DRINK_COFFEE.png",
+    "price": 2479
+  },
+  {
+    "id": "icedCoffees03",
+    "name": "STARBUCKS COFFEE ICED COFFEE, ITALIAN ROAST",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_COFFEE_ICED_COFFEE_ITALIAN_ROAST.png",
+    "price": 1067
+  },
+  {
+    "id": "icedCoffees04",
+    "name": "STARBUCKS ICED COFFEE BLEND",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_ICED_COFFEE_BLEND.png",
+    "price": 1359
+  },
+  {
+    "id": "icedCoffees05",
+    "name": "STARBUCKS VIA_ READY BREW CARAMEL ICED COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_VIA_READY_BREW_CARAMEL_ICED_COFFEE.png",
+    "price": 950
+  },
+  {
+    "id": "icedCoffees06",
+    "name": "STARBUCKS VIA_ READY BREW ICED COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/iced coffees/STARBUCKS_VIA_READY_BREW_ICED_COFFEE.png",
+    "price": 1699
+  }
+]

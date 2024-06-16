@@ -1,0 +1,44 @@
+[
+  {
+    "id": "decaffeinated01",
+    "name": "MAXWELL HOUSE WAKE-UP ROAST, GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/MAXWELL_HOUSE_WAKE_UP_ROAST_GROUND COFFEE.png",
+    "price": 1099
+  },
+  {
+    "id": "decaffeinated02",
+    "name": "NESCAFE DOLCE GUSTO CAPPUCCINO",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/NESCAFE_DOLCE_GUSTO_CAPPUCCINO.png",
+    "price": 1222
+  },
+  {
+    "id": "decaffeinated03",
+    "name": "NESCAFE DOLCE GUSTO DARK ROAST",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/NESCAFE_DOLCE_GUSTO_DARK_ROAST.png",
+    "price": 1099
+  },
+  {
+    "id": "decaffeinated04",
+    "name": "SENSEO DECAFFEINATED COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/SENSEO_DECAFFEINATED_COFFEE.png",
+    "price": 1222
+  },
+  {
+    "id": "decaffeinated05",
+    "name": "STARBUCKS BREAKFAST BLEND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/STARBUCKS_BREAKFAST_BLEND_COFFEE.png",
+    "price": 1902
+  },
+  {
+    "id": "decaffeinated06",
+    "name": "TASTERS CHOICE DECAF INSTANT COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/decaffeinated/TASTERS_CHOICE_DECAF_INSTANT_COFFEE.png",
+    "price": 2242
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "darkRoasts01",
+    "name": "MAXWELL HOUSE FRENCH ROAST GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/MAXWELL_HOUSE_FRENCH_ROAST_GROUND_COFFEE.png",
+    "price": 1359
+  },
+  {
+    "id": "darkRoasts02",
+    "name": "SENSEO DARK ROAST COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/SENSEO_DARK_ROAST_COFFEE.png",
+    "price": 1325
+  },
+  {
+    "id": "darkRoasts03",
+    "name": "SENSEO SUMATRA BLEND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/SENSEO_SUMATRA_BLEND_COFFEE.png",
+    "price": 1699
+  },
+  {
+    "id": "darkRoasts04",
+    "name": "SENSEO VIENNA HAZELNUT WALTZ COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/SENSEO_VIENNA_HAZELNUT_WALTZ_COFFEE.png",
+    "price": 1325
+  },
+  {
+    "id": "darkRoasts05",
+    "name": "YUBAN DARK ROAST GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/YUBAN_DARK_ROAST_GROUND_COFFEE.png",
+    "price": 1067
+  },
+  {
+    "id": "darkRoasts06",
+    "name": "YUBAN ORIGINAL GROUND COFFEE",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image":"assets/images/dark roasts/YUBAN_ORIGINAL_GROUND_COFFEE.png",
+    "price": 2029
+  }
+]
